@@ -1,0 +1,3 @@
+type RouteRecordRaw = {
+  title?: string
+}
